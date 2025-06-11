@@ -1,0 +1,30 @@
+body {
+  background: linear-gradient(30deg, red, blue, orange, yellow);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.card{
+
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.item{
+  text-align: center;
+  font-size: 30px;
+  border: 2px solid black;
+  width: 300px;
+
+  padding: 30px;
+}
+button {
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  padding: 15px 50px;
+
+}
+i {
+  font-size: 50px;
+}
